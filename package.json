@@ -1,10 +1,10 @@
 {
   "name": "nestjs-api-tutorial",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "A simple NestJS API Tutorial from freecodecamp.org",
+  "author": "Nestor Castro",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
